@@ -4,8 +4,9 @@
 
 1. clone
 2. composer install
-3. npm run build
-4. setting file .env
+3. npm install
+4. npm run build
+5. setting file .env
     - copy file .env.example menjadi .env
     - konfigurasi database pada file .env
 6. php artisan serve
