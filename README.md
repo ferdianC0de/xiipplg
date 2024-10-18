@@ -9,4 +9,5 @@
 5. setting file .env
     - copy file .env.example menjadi .env
     - konfigurasi database pada file .env
-6. php artisan serve
+6. php artisan migrate
+7. php artisan serve
